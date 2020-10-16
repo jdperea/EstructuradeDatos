@@ -14,7 +14,7 @@ Proceso Burbuja
     Hacer
 		n=0;
 		//Recorrer la lista
-		Para i=1 Hasta l Con Paso 1 Hacer
+		Para i=1 Hasta l-1 Con Paso 1 Hacer
 			//Verificar si los dos valores estan ordenados
 			Escribir "Se compara ",lista[i-1]," > ",lista[i];
 			Si lista[i-1]>lista[i]
