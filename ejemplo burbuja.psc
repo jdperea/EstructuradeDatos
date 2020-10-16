@@ -27,11 +27,12 @@ Proceso Burbuja
 			FinSi
 			
 		FinPara
+		Escribir "l:",l,"-n:",n;
 		l=n;
 	Hasta Que n=0;
 FinProceso
 
-//Función para mostrar estado de la lista
+//FunciÃ³n para mostrar estado de la lista
 SubProceso mostrarLista(lista,lon)
 	Definir i Como Entero;
 	Para i=0 Hasta lon-1 Con Paso 1 Hacer
