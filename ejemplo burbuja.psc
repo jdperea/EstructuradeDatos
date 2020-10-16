@@ -1,6 +1,6 @@
 Proceso Burbuja
 	Definir lista,lon,l,i,n,temp Como Entero;
-	Dimension lista[6];
+	Dimension lista[5];
 	lista[0]=5;
 	lista[1]=2;
 	lista[2]=4;
